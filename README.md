@@ -1,6 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Radhesh</h1>
 <h3 align="center">CS Student | Full-Stack & Cloud Developer in Training | Creative Coder | Writer</h3>
 
+<p align="center">
+  <em>"In the realm of logic, I craft with code. In the world of dreams, I write with soul."</em>
+</p>
+
 ---
 
 ### 🚀 About Me
