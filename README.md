@@ -57,8 +57,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radhesh20&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhesh20&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Radhesh20&show_icons=true&theme=tokyonight&cache_seconds=60" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhesh20&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
