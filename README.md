@@ -50,7 +50,7 @@
 
 📝 I write under the name **Ashen Everwrite**, exploring stories, characters, and ideas  
 🎮 I enjoy reviewing books and games, and diving deep into sci-fi, fantasy & lore  
-🌌 Writing helps me think better, code smarter, and create meaningful user experiences
+🌌 Writing helps me think better, code smarter, and create meaningful user experiences  
 
 ---
 
