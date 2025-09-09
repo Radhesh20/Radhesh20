@@ -1,75 +1,77 @@
 <h1 align="center">Hey there 👋, I'm Radhesh</h1>
-<h3 align="center">CS Student | Full-Stack & Cloud Developer in Training | Creative Coder | Writer</h3>
+<h3 align="center">Full-Stack Developer | Creative Coder | Storyteller</h3>
 
 <p align="center">
-  <em>"In the realm of logic, I craft with code. In the world of dreams, I write with soul."</em>
+<em>"In the realm of logic, I craft with code. In the world of dreams, I write with soul."</em>
 </p>
 
 ---
 
-### 🚀 About Me
+<h3>🚀 About Me</h3>
 
-- 🎓 I'm a Computer Science undergrad on a mission to **build, break, and learn** through code.
-- ☁️ Currently diving deep into **AWS Cloud (CLF-C02)** to understand the future of scalable tech.
-- 🌐 Crafting web apps using the **MERN Stack & GenAI**.
-- 📱 Exploring **Flutter** for clean, cross-platform mobile experiences.
-- 💻 Practicing **Java + DSA** to improve logical thinking and problem-solving.
-- ✍️ On the side, I write fiction & reviews as **Ashen Everwrite** – a creative outlet that fuels my passion for storytelling.
+🎓 I'm a Computer Science undergrad on a mission to build, break, and learn through code.
 
----
+🌐 Crafting dynamic, user-centric web applications with the MERN Stack and Next.js.
 
-### 🧰 Tech Stack
+💡 I love solving problems that I find interesting, whether that means building a web app for a business idea or creating custom software for games like Genshin Impact.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+💻 Honing my problem-solving skills with Java + DSA to build a strong logical foundation.
+
+✍️ As a script and story writer (Ashen Everwrite), I bring a narrative-driven approach to development, focusing on user journeys and compelling experiences.
 
 ---
 
-### ⚙️ What I'm Building
-
-- ☁️ **Cloud-Based To-Do List App** — React frontend with AWS backend
-- 🏋️‍♂️ **Fitness Tracker Web App** — Spring Boot + MySQL + User goals & analytics
-- 🤖 **AI Chatbot** — Exploring natural conversation flow using cloud tools
-- 📦 Mini-projects for AWS hands-on skills and GenAI integrations
-
----
-
-### ✨ On the Creative Side
-
-📝 I write under the name **Ashen Everwrite**, exploring stories, characters, and ideas  
-🎮 I enjoy reviewing books and games, and diving deep into sci-fi, fantasy & lore  
-🌌 Writing helps me think better, code smarter, and create meaningful user experiences  
-
----
-
-### 📈 GitHub Stats
+<h3>🧰 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radhesh20&show_icons=true&theme=tokyonight&cache_seconds=60" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhesh20&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github%26theme=dark" />
+</a>
 </p>
 
 ---
 
-### 📫 Let’s Connect
+<h3>⚙️ What I'm Building</h3>
+
+🎮 Genshin Impact Pity Counter — A web-based tool to help players track their gacha pulls and predict upcoming character/weapon drops.
+
+🎨 Real-Time Collaborative Whiteboard — An interactive whiteboard application using WebSockets for live collaboration between multiple users.
+
+📖 Inkwell (Content Platform) — A full-stack, Medium-like platform for writers to publish articles, manage their content, and interact with readers.
+
+📝 My Personal Blog & Portfolio — Building a platform from scratch to share my thoughts on tech, development, and creative writing.
+
+---
+
+<h3>✍️ My Blog & Writing</h3>
+
+I believe writing clarifies thinking and is a powerful way to share knowledge. I'm currently working on articles about my journey in tech, my approach to problem-solving, and the intersection of storytelling and development. Stay tuned for my first post!
+
+✨ Beyond the Code: Storytelling & Strategy
+
+My passion for writing isn't just a hobby—it's my training ground for thinking about the bigger picture.
+
+📝 As Ashen Everwrite, I write scripts and stories, diving deep into sci-fi and fantasy worlds.
+
+🧠 This creative outlet helps me approach development with a focus on user experience, product narrative, and business strategy.
+
+🌌 Analyzing narrative design in games and books inspires both my creative and technical projects.
+
+---
+
+<h3>📈 GitHub Stats</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Radhesh20&show_icons=true&theme=tokyonight&cache_seconds=60" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhesh20&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+<h3>📫 Let’s Connect</h3>
 
 <p align="left">
-  <a href="mailto:radheshkumar2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/radheshkumarkm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:radheshkumar2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/radheshkumarkm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center"><em>“I believe in blending logic with creativity — whether it's writing clean code or crafting compelling stories.”</em></p>
