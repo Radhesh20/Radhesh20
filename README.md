@@ -15,9 +15,9 @@
 
 💡 I love solving problems that I find interesting, whether that means building a web app for a business idea or creating custom software for games like Genshin Impact.
 
-💻 Honing my problem-solving skills with Java + DSA to build a strong logical foundation.
+💻 Honing my problem-solving skills with Java, Python, & DSA to build a strong logical foundation.
 
-✍️ As a script and story writer (Ashen Everwrite), I bring a narrative-driven approach to development, focusing on user journeys and compelling experiences.
+✍️ I bring a narrative-driven approach to development, a skill I sharpen through my creative writing as Ashen Everwrite.
 
 ---
 
@@ -44,19 +44,21 @@
 
 🎮 Genshin Impact Pity Counter — A web-based tool to help players track their gacha pulls and predict upcoming character/weapon drops.
 
-📝 My Personal Blog & Portfolio — Building a platform from scratch to share my thoughts on tech, development, and creative writing.
+🤖 Gaming Community Discord Bot — A feature-rich bot providing custom commands, moderation, and game-specific info (e.g., Genshin build recommendations).
+
+🕹️ GameLog (Letterboxd for Games) — A web platform for users to log, rate, and review games they've played, creating a personal library of their gaming history.
+
+📝 My Personal Blog & Portfolio — Building a platform from scratch to share my thoughts on tech, development, and my entrepreneurial journey.
 
 ---
 
-<h3>✍️ My Blog & Writing</h3>
+<h3>✍️ Building in Public: My Blog</h3>
 
-I believe writing clarifies thinking and is a powerful way to share knowledge. I'm currently working on articles about my journey in tech, my approach to problem-solving, and the intersection of storytelling and development. Stay tuned for my first post!
+I believe in the power of sharing the journey. On my blog, writing as Radhesh, I'll document my process—from technical deep-dives on my projects to the lessons I learn on my entrepreneurial path. My first article is in the works, stay tuned!
 
 ✨ Beyond the Code: Storytelling & Strategy
 
-My passion for writing isn't just a hobby—it's my training ground for thinking about the bigger picture.
-
-📝 As Ashen Everwrite, I write scripts and stories, diving deep into sci-fi and fantasy worlds.
+While my professional and technical writing is under my own name, I explore fiction and poetry under my creative pseudonym, Ashen Everwrite. This isn't just a hobby—it's my training ground for thinking about the bigger picture.
 
 🧠 This creative outlet helps me approach development with a focus on user experience, product narrative, and business strategy.
 
@@ -64,13 +66,6 @@ My passion for writing isn't just a hobby—it's my training ground for thinking
 
 ---
 
-<h3>📈 GitHub Stats</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Radhesh20&show_icons=true&theme=tokyonight&cache_seconds=60" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Radhesh20&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
 
 <h3>📫 Let’s Connect</h3>
 
