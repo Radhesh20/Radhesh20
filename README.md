@@ -23,10 +23,19 @@
 
 <h3>🧰 Tech Stack</h3>
 
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github%26theme=dark" />
-</a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -34,10 +43,6 @@
 <h3>⚙️ What I'm Building</h3>
 
 🎮 Genshin Impact Pity Counter — A web-based tool to help players track their gacha pulls and predict upcoming character/weapon drops.
-
-🎨 Real-Time Collaborative Whiteboard — An interactive whiteboard application using WebSockets for live collaboration between multiple users.
-
-📖 Inkwell (Content Platform) — A full-stack, Medium-like platform for writers to publish articles, manage their content, and interact with readers.
 
 📝 My Personal Blog & Portfolio — Building a platform from scratch to share my thoughts on tech, development, and creative writing.
 
