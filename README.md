@@ -42,13 +42,6 @@
 
 <h3>⚙️ What I'm Building</h3>
 
-🎮 Genshin Impact Pity Counter — A web-based tool to help players track their gacha pulls and predict upcoming character/weapon drops.
-
-🤖 Gaming Community Discord Bot — A feature-rich bot providing custom commands, moderation, and game-specific info (e.g., Genshin build recommendations).
-
-🕹️ GameLog (Letterboxd for Games) — A web platform for users to log, rate, and review games they've played, creating a personal library of their gaming history.
-
-📝 My Personal Blog & Portfolio — Building a platform from scratch to share my thoughts on tech, development, and my entrepreneurial journey.
 
 ---
 
