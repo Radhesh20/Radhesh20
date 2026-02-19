@@ -42,6 +42,9 @@
 
 <h3>⚙️ What I'm Building</h3>
 
+🛠️ Utility Tools: Digital Janitor
+I got tired of messy folders, so I built an open-source Python tool for zero-friction file management.
+[View Source Code] | [Download Executable]
 
 ---
 
