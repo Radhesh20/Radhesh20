@@ -44,7 +44,7 @@
 
 🛠️ Utility Tools: Digital Janitor
 I got tired of messy folders, so I built an open-source Python tool for zero-friction file management.
-[View Source Code] | [Download Executable]
+[View Source Code](https://github.com/Radhesh20/digital-janitor) | [Download Executable](https://radheshk.gumroad.com/l/digitaljanitor)
 
 ---
 
